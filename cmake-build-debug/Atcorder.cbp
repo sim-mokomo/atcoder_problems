@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Atcorder"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Atcorder">
+				<Option output="/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Atcorder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 Atcorder"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Atcorder/fast">
+				<Option output="/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Atcorder" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 Atcorder/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/funabashinaoya/RiderProjects/Atcorder/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Atcorder.sln">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/Problems.csproj">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/Program.exe">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/Tutorial.cs">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/Tutorial.exe">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Debug/netcoreapp2.0/Problems.AssemblyInfo.cs">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Debug/netcoreapp2.0/Problems.AssemblyInfoInputs.cache">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Problems.csproj.nuget.cache">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Problems.csproj.nuget.g.props">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Problems.csproj.nuget.g.targets">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/project.assets.json">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/project.packagespec.json">
+			<Option target="Atcorder"/>
+		</Unit>
+		<Unit filename="/Users/funabashinaoya/RiderProjects/Atcorder/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
