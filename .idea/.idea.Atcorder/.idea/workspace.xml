@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="904524e8-e6bd-4f72-b68a-f6df9d6a0980" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ABC001/ABC001_D.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC001/ABC001_D.exe" afterDir="false" />
+    <list default="true" id="904524e8-e6bd-4f72-b68a-f6df9d6a0980" name="Default" comment="- ABC002問題&#10; - Aクリア">
+      <change afterPath="$PROJECT_DIR$/ABC002/ABC002_B.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Atcorder/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Atcorder/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Atcorder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Atcorder/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC002/ABC002.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ABC002/ABC002.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ABC002/ABC002_A.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ABC002/ABC002_A.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ABC001_D.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ABC001_D.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ABC001/ABC001_D.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="427">
-              <caret line="169" column="1" lean-forward="true" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
+              <caret line="169" column="1" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
               <folding>
                 <marker date="1540555106898" expanded="true" signature="6:66" ph="..." />
                 <marker date="1540555106898" expanded="true" signature="84:5990" ph="{...}" />
@@ -130,6 +131,37 @@
                 <marker date="1540555106898" expanded="true" signature="5174:5512" ph="{...}" />
                 <marker date="1540555106898" expanded="true" signature="5608:5757" ph="{...}" />
                 <marker date="1540555106898" expanded="true" signature="5883:5972" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ABC002_A.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ABC002/ABC002_A.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="11" selection-start-line="6" selection-start-column="10" selection-end-line="13" selection-end-column="11" />
+              <folding>
+                <marker date="1540556316555" expanded="true" signature="31:361" ph="{...}" />
+                <marker date="1540556316555" expanded="true" signature="52:359" ph="{...}" />
+                <marker date="1540556316555" expanded="true" signature="59:353" ph="/* static void Main(string[] args) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ABC002_B.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ABC002/ABC002_B.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <marker date="1540556623538" expanded="true" signature="6:32" ph="..." />
+                <marker date="1540556623538" expanded="true" signature="50:523" ph="{...}" />
+                <marker date="1540556623538" expanded="true" signature="78:521" ph="{...}" />
+                <marker date="1540556623538" expanded="true" signature="124:515" ph="{...}" />
+                <marker date="1540556623538" expanded="true" signature="280:472" ph="{...}" />
+                <marker date="1540556623538" expanded="true" signature="350:416" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -167,10 +199,13 @@
     <setting file="file://$PROJECT_DIR$/ABC001/obj/Debug/netcoreapp2.0/ABC001.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ABC001/ABC001_B.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Problems/obj/Debug/netcoreapp2.0/Problems.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ABC002/ABC002_B.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ABC002/ABC002_A.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ABC001/ABC001_A.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ABC001/ABC001_C.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Problems/Tutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/ABC001/ABC001_D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ABC002/obj/Debug/netcoreapp2.0/ABC002.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -183,6 +218,9 @@
         <option value="$PROJECT_DIR$/ABC001/ABC001_B.cs" />
         <option value="$PROJECT_DIR$/ABC001/ABC001_C.cs" />
         <option value="$PROJECT_DIR$/ABC001/ABC001_D.cs" />
+        <option value="$PROJECT_DIR$/ABC002/Program.cs" />
+        <option value="$PROJECT_DIR$/ABC002/ABC002_A.cs" />
+        <option value="$PROJECT_DIR$/ABC002/ABC002_B.cs" />
       </list>
     </option>
   </component>
@@ -212,12 +250,12 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Atcorder (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Atcorder (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Atcorder (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="ABC001" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Atcorder (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="ABC002" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -278,7 +316,7 @@
       <workItem from="1539949692188" duration="3866000" />
       <workItem from="1540139137819" duration="2029000" />
       <workItem from="1540300098954" duration="6358000" />
-      <workItem from="1540473365440" duration="19226000" />
+      <workItem from="1540473365440" duration="20062000" />
     </task>
     <task id="LOCAL-00001" summary="- ABC001問題&#10; - Aクリア&#10; - Bクリア&#10; - Cクリア">
       <created>1540474327090</created>
@@ -287,11 +325,25 @@
       <option name="project" value="LOCAL" />
       <updated>1540474327090</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- ABC001問題&#10; - Dクリア">
+      <created>1540555796561</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540555796561</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- ABC002問題&#10; - Aクリア">
+      <created>1540556286345</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540556286345</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33968000" />
+    <option name="totallyTimeSpent" value="34804000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -313,9 +365,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.23272727" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31151515" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31151515" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5070422" visible="true" weight="0.25448027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5070422" visible="true" weight="0.25448027" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" />
       <window_info anchor="right" id="Database" order="3" />
@@ -340,7 +392,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- ABC001問題&#10; - Aクリア&#10; - Bクリア&#10; - Cクリア" />
-    <option name="LAST_COMMIT_MESSAGE" value="- ABC001問題&#10; - Aクリア&#10; - Bクリア&#10; - Cクリア" />
+    <MESSAGE value="- ABC001問題&#10; - Dクリア" />
+    <MESSAGE value="- ABC002問題&#10; - Aクリア" />
+    <option name="LAST_COMMIT_MESSAGE" value="- ABC002問題&#10; - Aクリア" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -724,7 +778,7 @@
     <entry file="file://$PROJECT_DIR$/ABC001/ABC001_D.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="427">
-          <caret line="169" column="1" lean-forward="true" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
+          <caret line="169" column="1" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
           <folding>
             <marker date="1540555106898" expanded="true" signature="6:66" ph="..." />
             <marker date="1540555106898" expanded="true" signature="84:5990" ph="{...}" />
@@ -753,6 +807,33 @@
             <marker date="1540555106898" expanded="true" signature="5174:5512" ph="{...}" />
             <marker date="1540555106898" expanded="true" signature="5608:5757" ph="{...}" />
             <marker date="1540555106898" expanded="true" signature="5883:5972" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC002/ABC002_A.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="11" selection-start-line="6" selection-start-column="10" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <marker date="1540556316555" expanded="true" signature="31:361" ph="{...}" />
+            <marker date="1540556316555" expanded="true" signature="52:359" ph="{...}" />
+            <marker date="1540556316555" expanded="true" signature="59:353" ph="/* static void Main(string[] args) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC002/ABC002_B.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <marker date="1540556623538" expanded="true" signature="6:32" ph="..." />
+            <marker date="1540556623538" expanded="true" signature="50:523" ph="{...}" />
+            <marker date="1540556623538" expanded="true" signature="78:521" ph="{...}" />
+            <marker date="1540556623538" expanded="true" signature="124:515" ph="{...}" />
+            <marker date="1540556623538" expanded="true" signature="280:472" ph="{...}" />
+            <marker date="1540556623538" expanded="true" signature="350:416" ph="{...}" />
           </folding>
         </state>
       </provider>
