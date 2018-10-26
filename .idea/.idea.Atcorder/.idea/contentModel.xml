@@ -22,6 +22,19 @@
           </e>
         </e>
       </e>
+      <e p="ABC002" t="IncludeRecursive">
+        <e p="ABC002.csproj" t="IncludeRecursive" />
+        <e p="ABC002_A.cs" t="Include" />
+        <e p="ABC002_A.exe" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="ABC002.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="Atcorder.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
       <e p="Problems" t="IncludeRecursive">
