@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="904524e8-e6bd-4f72-b68a-f6df9d6a0980" name="Default" comment="- ABC001問題&#10; - Aクリア&#10; - Bクリア">
-      <change afterPath="$PROJECT_DIR$/ABC001/ABC001_B.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ABC001/ABC001_C.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atcorder.sln" afterDir="false" />
+    <list default="true" id="904524e8-e6bd-4f72-b68a-f6df9d6a0980" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ABC001/ABC001_D.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ABC001/ABC001_D.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Atcorder/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Atcorder/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Atcorder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Atcorder/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,10 +19,11 @@
       <file leaf-file-name="Tutorial.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Problems/Tutorial.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
               <folding>
                 <marker date="1539949962017" expanded="false" signature="6:32" ph="..." />
+                <marker date="1539949962017" expanded="true" signature="50:427" ph="{...}" />
                 <marker date="1539949962017" expanded="true" signature="71:425" ph="{...}" />
                 <marker date="1539949962017" expanded="true" signature="117:419" ph="{...}" />
               </folding>
@@ -49,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ABC001_C.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ABC001_C.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ABC001/ABC001_C.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="11" />
               <folding>
                 <marker date="1540304338529" expanded="true" signature="31:3904" ph="{...}" />
                 <marker date="1540304338529" expanded="true" signature="59:3902" ph="{...}" />
@@ -95,6 +97,44 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="ABC001_D.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ABC001/ABC001_D.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="169" column="1" lean-forward="true" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
+              <folding>
+                <marker date="1540555106898" expanded="true" signature="6:66" ph="..." />
+                <marker date="1540555106898" expanded="true" signature="84:5990" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="112:5988" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="158:257" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="293:2694" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="390:1325" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="847:925" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="977:1058" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="1372:1442" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="1489:1579" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="1623:1713" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="1776:2424" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="1791:2104" ph="/* Console.WriteLine($&quot;begin : {GetBeginningRainTime()}&quot;); ... */" />
+                <marker date="1540555106898" expanded="true" signature="2489:2684" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="2773:3101" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="2856:2949" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="3006:3091" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="3131:5982" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="3322:3512" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="4025:4114" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="4307:5771" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="4443:5587" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="4462:4649" ph="/* Console.WriteLine(&quot;Combine&quot;); ... */" />
+                <marker date="1540555106898" expanded="true" signature="4819:5149" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="5174:5512" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="5608:5757" ph="{...}" />
+                <marker date="1540555106898" expanded="true" signature="5883:5972" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ABC001_A.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ABC001/ABC001_A.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,6 +154,7 @@
     <findStrings>
       <find>dirStr =</find>
       <find>dirStr =return</find>
+      <find>dataupdate</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -124,10 +165,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ABC001/obj/Debug/netcoreapp2.0/ABC001.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ABC001/ABC001_B.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ABC001/ABC001_A.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ABC001/ABC001_C.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Problems/Tutorial.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ABC001/ABC001_B.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Problems/obj/Debug/netcoreapp2.0/Problems.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ABC001/ABC001_A.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ABC001/ABC001_C.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Problems/Tutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ABC001/ABC001_D.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -139,6 +182,7 @@
         <option value="$PROJECT_DIR$/ABC001/ABC001_A.cs" />
         <option value="$PROJECT_DIR$/ABC001/ABC001_B.cs" />
         <option value="$PROJECT_DIR$/ABC001/ABC001_C.cs" />
+        <option value="$PROJECT_DIR$/ABC001/ABC001_D.cs" />
       </list>
     </option>
   </component>
@@ -201,18 +245,22 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Problems/bin/Debug/netcoreapp2.0/Problems.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Problems/Problems.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
       <browser url="http://localhost:5000" />
     </configuration>
   </component>
@@ -230,12 +278,20 @@
       <workItem from="1539949692188" duration="3866000" />
       <workItem from="1540139137819" duration="2029000" />
       <workItem from="1540300098954" duration="6358000" />
-      <workItem from="1540473365440" duration="477000" />
+      <workItem from="1540473365440" duration="19226000" />
     </task>
+    <task id="LOCAL-00001" summary="- ABC001問題&#10; - Aクリア&#10; - Bクリア&#10; - Cクリア">
+      <created>1540474327090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540474327090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15219000" />
+    <option name="totallyTimeSpent" value="33968000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -247,7 +303,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="726" y="0" width="714" height="900" extended-state="0" />
+    <frame x="561" y="0" width="879" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -255,13 +312,14 @@
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.23272727" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.31151515" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4964789" visible="true" weight="0.33035713" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5070422" visible="true" weight="0.25448027" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.50352114" side_tool="true" visible="true" weight="0.33035713" />
+      <window_info id="Structure" order="1" sideWeight="0.49295774" side_tool="true" visible="true" weight="0.25448027" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -280,6 +338,30 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- ABC001問題&#10; - Aクリア&#10; - Bクリア&#10; - Cクリア" />
+    <option name="LAST_COMMIT_MESSAGE" value="- ABC001問題&#10; - Aクリア&#10; - Bクリア&#10; - Cクリア" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/ABC001/ABC001_D.cs</url>
+          <line>76</line>
+          <properties documentPath="$PROJECT_DIR$/ABC001/ABC001_D.cs" initialLine="55">
+            <startOffsets>
+              <startOffset value="2382" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="2382" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Problems/Tutorial.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -287,6 +369,7 @@
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <marker date="1539949962017" expanded="false" signature="6:32" ph="..." />
+            <marker date="1539949962017" expanded="true" signature="50:427" ph="{...}" />
             <marker date="1539949962017" expanded="true" signature="71:425" ph="{...}" />
             <marker date="1539949962017" expanded="true" signature="117:419" ph="{...}" />
           </folding>
@@ -372,6 +455,7 @@
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <marker date="1539949962017" expanded="false" signature="6:32" ph="..." />
+            <marker date="1539949962017" expanded="true" signature="50:427" ph="{...}" />
             <marker date="1539949962017" expanded="true" signature="71:425" ph="{...}" />
             <marker date="1539949962017" expanded="true" signature="117:419" ph="{...}" />
           </folding>
@@ -457,6 +541,7 @@
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <marker date="1539949962017" expanded="false" signature="6:32" ph="..." />
+            <marker date="1539949962017" expanded="true" signature="50:427" ph="{...}" />
             <marker date="1539949962017" expanded="true" signature="71:425" ph="{...}" />
             <marker date="1539949962017" expanded="true" signature="117:419" ph="{...}" />
           </folding>
@@ -542,6 +627,7 @@
           <caret line="18" column="1" lean-forward="true" selection-end-line="18" selection-end-column="1" />
           <folding>
             <marker date="1539949962017" expanded="false" signature="6:32" ph="..." />
+            <marker date="1539949962017" expanded="true" signature="50:427" ph="{...}" />
             <marker date="1539949962017" expanded="true" signature="71:425" ph="{...}" />
             <marker date="1539949962017" expanded="true" signature="117:419" ph="{...}" />
           </folding>
@@ -549,18 +635,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Problems/ABC001_A.cs" />
-    <entry file="file://$PROJECT_DIR$/Problems/Tutorial.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <marker date="1539949962017" expanded="false" signature="6:32" ph="..." />
-            <marker date="1539949962017" expanded="true" signature="71:425" ph="{...}" />
-            <marker date="1539949962017" expanded="true" signature="117:419" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ABC001/ABC001_A.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -592,8 +666,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ABC001/ABC001_C.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="10" selection-end-column="11" />
           <folding>
             <marker date="1540304338529" expanded="true" signature="31:3904" ph="{...}" />
             <marker date="1540304338529" expanded="true" signature="59:3902" ph="{...}" />
@@ -630,6 +704,55 @@
             <marker date="1540304338529" expanded="true" signature="3616:3672" ph="{...}" />
             <marker date="1540304338529" expanded="true" signature="3706:3762" ph="{...}" />
             <marker date="1540304338529" expanded="true" signature="3795:3851" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Problems/Tutorial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding>
+            <marker date="1539949962017" expanded="false" signature="6:32" ph="..." />
+            <marker date="1539949962017" expanded="true" signature="50:427" ph="{...}" />
+            <marker date="1539949962017" expanded="true" signature="71:425" ph="{...}" />
+            <marker date="1539949962017" expanded="true" signature="117:419" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ABC001/ABC001_D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="169" column="1" lean-forward="true" selection-start-line="169" selection-start-column="1" selection-end-line="169" selection-end-column="1" />
+          <folding>
+            <marker date="1540555106898" expanded="true" signature="6:66" ph="..." />
+            <marker date="1540555106898" expanded="true" signature="84:5990" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="112:5988" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="158:257" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="293:2694" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="390:1325" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="847:925" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="977:1058" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="1372:1442" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="1489:1579" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="1623:1713" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="1776:2424" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="1791:2104" ph="/* Console.WriteLine($&quot;begin : {GetBeginningRainTime()}&quot;); ... */" />
+            <marker date="1540555106898" expanded="true" signature="2489:2684" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="2773:3101" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="2856:2949" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="3006:3091" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="3131:5982" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="3322:3512" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="4025:4114" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="4307:5771" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="4443:5587" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="4462:4649" ph="/* Console.WriteLine(&quot;Combine&quot;); ... */" />
+            <marker date="1540555106898" expanded="true" signature="4819:5149" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="5174:5512" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="5608:5757" ph="{...}" />
+            <marker date="1540555106898" expanded="true" signature="5883:5972" ph="{...}" />
           </folding>
         </state>
       </provider>

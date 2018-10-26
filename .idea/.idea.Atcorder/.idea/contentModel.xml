@@ -11,6 +11,8 @@
         <e p="ABC001_B.exe" t="Include" />
         <e p="ABC001_C.cs" t="Include" />
         <e p="ABC001_C.exe" t="Include" />
+        <e p="ABC001_D.cs" t="Include" />
+        <e p="ABC001_D.exe" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">

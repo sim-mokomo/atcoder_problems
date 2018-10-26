@@ -1,0 +1,10 @@
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/bin/Debug/netcoreapp2.0/Problems.deps.json
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/bin/Debug/netcoreapp2.0/Problems.runtimeconfig.json
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/bin/Debug/netcoreapp2.0/Problems.runtimeconfig.dev.json
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/bin/Debug/netcoreapp2.0/Problems.dll
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/bin/Debug/netcoreapp2.0/Problems.pdb
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Debug/netcoreapp2.0/Problems.csproj.CoreCompileInputs.cache
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Debug/netcoreapp2.0/Problems.AssemblyInfoInputs.cache
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Debug/netcoreapp2.0/Problems.AssemblyInfo.cs
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Debug/netcoreapp2.0/Problems.dll
+/Users/funabashinaoya/RiderProjects/Atcorder/Problems/obj/Debug/netcoreapp2.0/Problems.pdb
